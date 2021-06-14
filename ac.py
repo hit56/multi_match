@@ -151,7 +151,7 @@ class AC(Trie):
 
 if __name__ == "__main__":
     ac = AC()
-    ac.init(['做爱', '性感'])
+    ac.init(['西游记', '红楼梦'])
 #    ac.search("ithisherti")
     for line in sys.stdin:
         line = line.strip()
